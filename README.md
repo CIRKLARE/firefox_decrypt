@@ -11,4 +11,4 @@ usage
 
 python3 firefox_decrypt.py /loot/
 
-"/loot/" is path to floder that contain logins files
+"/loot/" is path to folder that contain logins files
